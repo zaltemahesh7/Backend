@@ -10,7 +10,7 @@ const lodash = require('lodash')
 router.get('/test-me', function (req, res) {
     let names = [ 'Hariom', 'Arpit', 'Akash', 'Sabiha']
     //Module 1 members
-    logger.printMessage('thorium')
+    logger.printMessage('radon')
     console.log(logger.url)
     logger.printWelcomeMessage()
 
